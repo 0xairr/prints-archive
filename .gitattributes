@@ -1,0 +1,2 @@
+# Store every file byte-for-byte: prints checks mirrored files against their SHA-256
+* -text
